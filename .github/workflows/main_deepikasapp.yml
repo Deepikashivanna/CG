@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'deepikasapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3D2ECEFF9C9E4B40A420AB32F0A050B5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2DD4845285874509B69E2B170632AB2D }}
           package: .
